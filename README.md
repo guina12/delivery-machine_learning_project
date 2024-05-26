@@ -2,7 +2,9 @@
 
 ## Descrição do Projeto
 
-Este projeto de Machine Learning foi desenvolvido para otimizar o processo de entregas de uma empresa de logística. Utilizamos diversos algoritmos de aprendizado de máquina para prever o tempo de entrega, otimizar rotas e melhorar a eficiência geral do processo de entrega.
+Este projeto de Machine Learning foi desenvolvido para otimizar o processo de entregas de uma empresa de logística. Utilizamos modelos de redes neurais  para  prever o tempo de entrega, otimizar rotas e melhorar a eficiência geral do processo de entrega.
+
+Neste mesmo projecto destaque-se a importância da utilização de técnicas de orientação a objectos   que são bastante importantes  para facilitar as actividades.
 
 ## Estrutura do Projeto
 
